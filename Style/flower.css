@@ -8,7 +8,7 @@
 }
 
 .header {
-    background-color: rgba(229, 84, 115, 0.10);
+    background-color: rgba(229, 84, 115, 0.05);
 }
 
 .banner {
@@ -192,6 +192,92 @@
     width: 318px;
     height: 420px;
     margin: 0px 300px 0px 0px;
+}
+
+.best-seller {
+}
+
+.best-seller-title {
+    color: #000;
+    font-family: Lato;
+    font-size: 32px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.best-seller-card {
+    display: flex;
+    justify-content: space-around;
+    max-width: 1440px;
+    margin: 50px auto;
+}
+
+.card-4 {
+    width: 287px;
+    height: 356px;
+    border-radius: 5px;
+    background: #E55473;
+    padding: 17px 17px 17px 17px;
+}
+
+.card-4-text {
+    color: #ffffff;
+    font-family: Lato;
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.card-5 {
+    width: 287px;
+    height: 356px;
+    border-radius: 5px;
+    background: #E55473;
+    padding: 17px 17px 17px 17px;
+}
+
+.card-5-text {
+    color: #ffffff;
+    font-family: Lato;
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.card-6 {
+    width: 287px;
+    height: 356px;
+    border-radius: 5px;
+    background: #E55473;
+    padding: 17px 17px 17px 17px;
+}
+
+.card-6-text {
+    color: #ffffff;
+    font-family: Lato;
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.card-7 {
+    width: 287px;
+    height: 356px;
+    border-radius: 5px;
+    background: #E55473;
+    padding: 17px 17px 17px 17px;
+}
+
+.card-7-text {
+    color: #ffffff;
+    font-family: Lato;
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.text {
+color: #ffffff;
+font-family: Lato;
+font-size: 18px;
+font-weight: 400;
 }
 
 .social-media {
